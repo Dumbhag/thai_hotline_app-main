@@ -80,7 +80,7 @@ class _AboutUIState extends State<AboutUI> {
               height: MediaQuery.of(context).size.height * 0.03,
             ),
             Text(
-              "6519410040",
+              "6519410057",
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.black,
